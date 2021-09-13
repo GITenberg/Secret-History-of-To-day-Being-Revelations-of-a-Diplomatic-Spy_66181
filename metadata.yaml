@@ -1,0 +1,37 @@
+_repo: Secret-History-of-To-day-Being-Revelations-of-a-Diplomatic-Spy_66181
+_version: 0.0.1
+alternative_title: 'Secret History of Today: Being Revelations of a Diplomatic Spy'
+contributor:
+  illustrator:
+    agent_name: Dewar, W.
+    gutenberg_agent_id: '53667'
+    url: http://www.gutenberg.org/2009/agents/53667
+creator:
+  author:
+    agent_name: Upward, Allen
+    alias: Upward, A. (Allen)
+    birthdate: 1863
+    deathdate: 1926
+    gutenberg_agent_id: '32167'
+    url: http://www.gutenberg.org/2009/agents/32167
+    wikipedia: https://en.wikipedia.org/wiki/Allen_Upward
+description: ''
+gutenberg_issued: '2021-08-30'
+identifiers:
+  gutenberg: '66181'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PR'
+- !lcsh 'English fiction -- 20th century'
+- !lcsh 'Spy stories, English'
+- GITenberg
+tableOfContents: The telegram which began the Boer War -- The blowing up of the 'Maine'
+  -- The mystery of Captain Dreyfus -- What was behind the Tsar's peace rescript --
+  Who really killed King Humbert? -- The peril of Norway -- The ruse of the Dowager
+  Empress -- The abdication of Francis-Joseph -- The death of Queen Draga -- The policy
+  of Edward VII -- The Humbert millions -- The Black Pope.
+title: 'Secret History of To-day: Being Revelations of a Diplomatic Spy'
+url: http://www.gutenberg.org/ebooks/66181
