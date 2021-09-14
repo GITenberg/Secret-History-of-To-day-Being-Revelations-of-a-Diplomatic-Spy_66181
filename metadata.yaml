@@ -1,11 +1,14 @@
 _repo: Secret-History-of-To-day-Being-Revelations-of-a-Diplomatic-Spy_66181
-_version: 0.1.0
+_version: 0.2.0
 alternative_title: 'Secret History of Today: Being Revelations of a Diplomatic Spy'
 contributor:
   illustrator:
     agent_name: Dewar, W.
     gutenberg_agent_id: '53667'
     url: http://www.gutenberg.org/2009/agents/53667
+covers:
+- cover_type: archival
+  image_path: 66181-h/images/cover.jpg
 creator:
   author:
     agent_name: Upward, Allen
@@ -16,6 +19,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/32167
     wikipedia: https://en.wikipedia.org/wiki/Allen_Upward
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/66181#Secret-History-of-To-day-Being-Revelations-of-a-Diplomatic-Spy
 gutenberg_issued: '2021-08-30'
 identifiers:
   gutenberg: '66181'
